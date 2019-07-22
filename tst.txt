@@ -1,0 +1,13 @@
+*   ec9e971 (HEAD -> master, origin/master) Merge branch 'master' of https://github.com/Adiel30/DevOps
+|\  
+| * ccca34a ChangeGuessGame
+| * 005b223 ChangeGuessGame
+| * 9fe55e6 Branch
+* | 941cbb9 Update workspace.xml
+* | 5154058 ChangeGuessGame
+|/  
+* 47c8d47 (origin/status, status) MYGUESSGAME
+* 47f7aca BuymeRepo
+* 2e539cd BuyME
+* 90642f6 buyme
+* fd9018b first

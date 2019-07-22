@@ -3,7 +3,7 @@ num = random.randint(1,100)
 print(num)
 print(" This is a gusses game: ")
 print("Now Gusse Number ")
-#Code
+
 guesses = [0]
 
 while True:
@@ -12,4 +12,3 @@ while True:
         print('OUT OF BOUNDS! Please try again: ')
         continue
     break
-
